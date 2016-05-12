@@ -1,0 +1,15 @@
+#result{
+  position:absolute;
+  left:40%;
+  top:170px;
+  height:500px;
+  border: 1px solid cornflowerblue;
+}
+
+#green{
+  background-color:#00FF66;
+}
+
+#red{
+  background-color:#800000;
+}

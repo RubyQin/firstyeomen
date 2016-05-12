@@ -1,0 +1,144 @@
+{
+  "calender": [
+    {
+      "index": 1,
+      "weekday": "Monday",
+      "hour": 8
+    },
+    {
+      "index": 2,
+      "weekday": "Tuesday",
+      "hour": 8
+    },
+    {
+      "index": 3,
+      "weekday": "Wednesday",
+      "hour": 8
+    },
+    {
+      "index": 4,
+      "weekday": "Thursday",
+      "hour": 8
+    },
+    {
+      "index": 5,
+      "weekday": "Friday",
+      "hour": 8
+    },
+    {
+      "index": 6,
+      "weekday": "Saturday",
+      "hour": 0
+    },
+    {
+      "index": 7,
+      "weekday": "Sunday",
+      "hour": 0
+    },
+    {
+      "index": 8,
+      "weekday": "Monday",
+      "hour": 8
+    },
+    {
+      "index": 9,
+      "weekday": "Tuesday",
+      "hour": 8
+    },
+    {
+      "index": 10,
+      "weekday": "Wednesday",
+      "hour": 8
+    },
+    {
+      "index": 11,
+      "weekday": "Thursday",
+      "hour": 8
+    },
+    {
+      "index": 12,
+      "weekday": "Friday",
+      "hour": 8
+    },
+    {
+      "index": 13,
+      "weekday": "Saturday",
+      "hour": 0
+    },
+    {
+      "index": 14,
+      "weekday": "Sunday",
+      "hour": 0
+    },
+    {
+      "index": 15,
+      "weekday": "Monday",
+      "hour": 8
+    },
+    {
+      "index": 16,
+      "weekday": "Tuesday",
+      "hour": 8
+    },
+    {
+      "index": 17,
+      "weekday": "Wednesday",
+      "hour": 8
+    },
+    {
+      "index": 18,
+      "weekday": "Thursday",
+      "hour": 8
+    },
+    {
+      "index": 19,
+      "weekday": "Friday",
+      "hour": 8
+    },
+    {
+      "index": 20,
+      "weekday": "Saturday",
+      "hour": 0
+    },
+    {
+      "index": 21,
+      "weekday": "Sunday",
+      "hour": 0
+    },
+    {
+      "index": 22,
+      "weekday": "Monday",
+      "hour": 8
+    },
+    {
+      "index": 23,
+      "weekday": "Tuesday",
+      "hour": 8
+    },
+    {
+      "index": 24,
+      "weekday": "Wednesday",
+      "hour": 8
+    },
+    {
+      "index": 25,
+      "weekday": "Thursday",
+      "hour": 8
+    },
+    {
+      "index": 26,
+      "weekday": "Friday",
+      "hour": 8
+    },
+    {
+      "index": 27,
+      "weekday": "Saturday",
+      "hour": 0
+    },
+    {
+      "index": 28,
+      "weekday": "Sunday",
+      "hour": 0
+    }
+  ]
+}

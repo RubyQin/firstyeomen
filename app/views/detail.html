@@ -1,0 +1,38 @@
+<div class="row">
+  <div class="col-xs-8" style="border: 1px solid cornflowerblue; height:30px; margin-bottom:15px;">
+    <p> Welcome {{login.user}}</p>
+  </div>
+  <br><br><br>
+  <div class="col-xs-4" style="float:left;">
+    <table class="table table-hover">
+      <tr>
+        <td>Date</td><td>Weekday</td><td>Hours</td>
+      </tr>
+      <tr ng-repeat="h in data.calender">
+        <td>{{h.index}}</td>
+        <td>{{h.weekday}}</td>
+        <td>{{h.hour}}</td>
+      </tr>
+    </table>
+  </div>
+  <div class="col-xs-4" style="float:left;">
+    <button type="button" class="btn btn-success" ng-click="analysis()">Analysis</button>
+  </div>
+  <br>
+  <div class="col-xs-3" id='result' ng-show='showResult'>
+    <table class="table table-hover">
+      <tr>
+        <td>Total Hours</td><td>{{totalhours}}</td>
+      </tr>
+      <tr>
+        <td> Total Working Hours</td><td>{{workinghours}}</td>
+      </tr>
+      <tr>
+        <td>Hours per Week</td><td>{{perweek}}</td>
+      </tr>
+    </table>
+    <p ng-show="green" id="green">You are good as you work under 80 hour/week averaged over a four-week period.</p>
+    <p ng-show="red" id="red">You need to have rest as you work <b>over</b> 80 hour/week averaged over a four-week period.</p>
+
+  </div>
+</div>
